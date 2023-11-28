@@ -1,6 +1,9 @@
+# 3D Slideshow : Three.js, Vue.js, TailwindCSS
+
+
+
 ![Video Thumbnail](https://img.youtube.com/vi/0Yl7TiZtxnk/maxresdefault.jpg)
 
-[Video tutorial](https://youtu.be/0Yl7TiZtxnk)
 
 Huge thanks for the 3D models to:
 - Cactus by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/9UCcl_W0Xq3)
